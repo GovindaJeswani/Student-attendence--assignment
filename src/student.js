@@ -1,18 +1,18 @@
 export const initialData = [
   {
-    Roll: '01',
+    Roll: '00',
     StudentName: 'OP',
-    checkInTime: '1600',
+    checkInTime: '16:00',
     checkOutTime: '',
   },
   {
-    Roll: '02',
+    Roll: '01',
     StudentName: ' vikas',
     checkInTime: '1700',
     checkOutTime: '1800',
   },
   {
-    Roll: '03',
+    Roll: '02',
     StudentName: 'ankit',
     checkInTime: '1800',
     checkOutTime: '',

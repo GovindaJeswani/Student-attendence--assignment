@@ -26,7 +26,7 @@ Create a React App, Following are the things required in the app -
 
 
 ## Want to run locally, follow there steps:
-  1. `git clone `
+  1. `git clone ` https://github.com/GovindaJeswani/Student-attendence--assignment.git
   2. `cd Latracal-assignment`
   3. `npm i`
   4. `npm start`

@@ -22,7 +22,7 @@ const Dropdown = () => {
   const optionsList = [
     `Present Students: ${numOfPresentStudents}`,
     `Total Students: ${numOfTotalStudents}`,
-    // `Checked Out students: ${numOfAbsentStudents}`,
+    `Absent students: ${numOfAbsentStudents}`,
   ];
 
   const toggleOptions = () => {
